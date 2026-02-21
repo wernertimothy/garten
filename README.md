@@ -9,6 +9,20 @@
 * [ ] Geräteschuppen fertigstellen
 * [ ] Kompost anlegen 
 
+## Anzucht
+
+### Material
+* [ ] Beleuchtung: LED-Pflanzenlampe mit vollem Lichtspektrum, 30-60W
+* [ ] Anzuchterde
+* [ ] Sprühflasche: schonendes Gießen
+
+### Vorgehen
+* **Lampe**: sollte 14-16 Stundne laufen. Abstand: Zu weit -> Keimlinge etiolieren. Zu nah -> Keimlinge verbrennen. 15-30cm über den Pflanzen.
+* **Temperatur**: 18-22C. Wärmeliebende Pflanzen (Gurke, Zucchini, ...) 22-25C.
+* **Gießen**: Nicht übergießen. Erde sollte feucht, nicht nass sein. Am besten von unten gießen -> Wasser in Untersetzer geben, fördert Wurzelwachstum.
+* **Luft**: Gelegentliches Lüften oder Ventilator stärkt Stängel.
+* **Dünger**: In den ersten 2-3 Wochen keine Hilfe. Zu viel Nährstoffe kann schaden. Anzuchterde ist extra nährstoffarm. Wenn Keimlinge groß genug sind (erste echte Blätter), kann man düngen. Umtopfen in nährstoffreichere Erde zu bevorzugen.
+
 ## Beete
 
 Übersicht über Beete
@@ -60,7 +74,6 @@
 | Huazontle | Sellerie | März-Apr. |  | 
 | Brokkoli Rosalind | Brokkoli | Feb. - Juli |
 | Asiasalat Mizuna | Salat | Feb-Okt
-
 
 ## Übersicht Beete
 
