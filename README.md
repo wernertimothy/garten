@@ -4,17 +4,44 @@
 ## TODOs
 
 * [ ] Gewächshaus
+    - [ ] Architektur planen
+    - [ ] Material besorgen
 * [ ] Werkzeug reparieren
+    - [x] Stile besorgen
 * [ ] Gemüse bestellen
 * [ ] Geräteschuppen fertigstellen
 * [ ] Kompost anlegen 
+* [ ] Beete vorbereiten
+* [ ] Staketenzaun aufstellen
+* [ ] Pflanzplan erstellen
+* [ ] Besorgungen
+    - [x] Schubkarre
+    - [x] Erde und Kompost
+    - [ ] Torbogen
+    - [ ] Kletterrose
+    - [ ] Hortensien
+
+## Blumen
+
+### Ranunkeln und Anemonen
+
+Details, siehe [Ranunkeln und Anemonen][]
+
+| Phase | Ranunkeln | Anemonen |
+|-------|-----------|----------|
+| Knollen vorquellen | Ende Feb. / Anfang März | Ende Feb. / Anfang März |
+| Vortreiben (Töpfe) | Anfang März | Anfang März |
+| Auspflanzen (Gewächshaus) | Mitte–Ende März | Mitte–Ende März |
+| Auspflanzen (Freiland) | Anfang–Mitte April | Mitte März–Ende April |
+| Erste Blüte | Mai–Juni | April–Mai |
+| Blütezeit | 6–8 Wochen | 4–6 Wochen |
 
 ## Anzucht
 
 ### Material
 * [ ] Beleuchtung: LED-Pflanzenlampe mit vollem Lichtspektrum, 30-60W
-* [ ] Anzuchterde
-* [ ] Sprühflasche: schonendes Gießen
+* [x] Anzuchterde
+* [x] Sprühflasche: schonendes Gießen
 
 ### Vorgehen
 * **Lampe**: sollte 14-16 Stundne laufen. Abstand: Zu weit -> Keimlinge etiolieren. Zu nah -> Keimlinge verbrennen. 15-30cm über den Pflanzen.
@@ -24,8 +51,6 @@
 * **Dünger**: In den ersten 2-3 Wochen keine Hilfe. Zu viel Nährstoffe kann schaden. Anzuchterde ist extra nährstoffarm. Wenn Keimlinge groß genug sind (erste echte Blätter), kann man düngen. Umtopfen in nährstoffreichere Erde zu bevorzugen.
 
 ## Beete
-
-Übersicht über Beete
 
 | Beet | Abkürzung | Fläche (m2)
 |------|-----------|------------
@@ -40,20 +65,18 @@
 
 ## Gemüse
 
-Übersicht über Gemüse
-
-| Sorte | Art | Aussaht | Ort|
-|-------|-----|---------|----|
+| Sorte | Art | Aussaht | Beet |
+|-------|-----|---------|------|
 | `noch da:` |
 | Grünkohl | Kohl | | |
 | Gurke | Gurke | | |
 | Petersilie | Kräuter | ab März | KB |
 | Lauchzwiebel | Zwiebel | ab April | |
-| Dicke Bohnen | Bohnen | ab März | extra |
+| Dicke Bohnen | Bohnen | Feb. | |
 | Schnittlacuh | Kräuter | | KB |
-| Zuchini | Zuchini | ab Mai | extra |
+| Zuchini | Zuchini | ab Mai | |
 | Malaba Spinat | Spinat | ab Mai | |
-| Ananaskirsche | Frucht | Feb.-Apr. | extra |
+| Ananaskirsche | Frucht | Feb.-Apr. | |
 | Melonen | Frucht | ab April vor. | |
 | Mangold | Mangold | ab April | |
 | Hokkaido | Kürbis | ab Mai | |
@@ -77,6 +100,17 @@
 
 ## Übersicht Beete
 
+|           | HB1 | HB2 | HB3 | HB4 | HB5 | GH | BB | KB | 
+|-----------|-----|-----|-----|-----|-----|----|----|----|
+| März      | ? | ? | ? | ? | ? | ? | ? | ? |
+| April     | ? | ? | ? | ? | ? | ? | ? | ? |
+| Mai       | ? | ? | ? | ? | ? | ? | ? | ? |
+| Juni      | ? | ? | ? | ? | ? | ? | ? | ? |
+| Juli      | ? | ? | ? | ? | ? | ? | ? | ? |
+| August    | ? | ? | ? | ? | ? | ? | ? | ? |
+| September | ? | ? | ? | ? | ? | ? | ? | ? |
+| Oktober   | ? | ? | ? | ? | ? | ? | ? | ? |
+
 ## Übersicht Monate
 
 ### März
@@ -84,3 +118,5 @@
 ### April
 
 ### Mai 
+
+[Ranunkeln und Anemonen]: Blumen/Pflanzplan_Ranunkeln_Anemonen.md
