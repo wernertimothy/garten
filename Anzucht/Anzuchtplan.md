@@ -23,13 +23,14 @@
 
 | | A | B | C | D |
 |-|---|---|---|---|
-1 | Ananaskirsche | Ananaskirsche | Ananaskirsche | Ananaskirsche |
-2 | Blatsalat Hirschzunge | Blatsalat Hirschzunge | Blatsalat Hirschzunge | Blatsalat Hirschzunge |
-3 | Eisbergsalat | Eisbergsalat | Eisbergsalat | Eisbergsalat |
-4 | Thai-Basilikum | Thai-Basilikum | Thai-Basilikum | Thai-Basilikum |
+1 | Honigmelone | Honigmelone | Wassermelone | Wassermelone |
+2 | Blatsalat Hirschzunge | Blatsalat Hirschzunge | Blatsalat Hirschzunge | Grünkohl |
+3 | Eisbergsalat | Eisbergsalat | Eisbergsalat | Grünkohl |
+4 | Thai-Basilikum | Thai-Basilikum | Thai-Basilikum | Grünkohl |
 5 | Brokkoli Rosalind | Brokkoli Rosalind| Brokkoli Rosalind | Brokkoli Rosalind |
 6 | Brokkoli Calinaro | Brokkoli Calinaro  | Brokkoli Calinaro  | Brokkoli Calinaro |
 
 ## Notizen
 * Sticker ist oben (Reihe 1)
-* erste Anzucht: 14.März
+* erste Anzucht: 14. März
+* zweite Anzucht: 24. April
